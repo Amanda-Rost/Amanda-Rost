@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, eu sou a Amanda Rost!👋  
 
-<!--
-**Amanda-Rost/Amanda-Rost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo e me aprofundando em **Java** e **JavaScript** .
+- 💼 Participei de diversos projetos, mas o que mais marcou minha trajetória, até o momento, foi o **QuimicAR**.
+- 🎓 Finalista na **MOSTRATEC** e na **FEBRACE** com o projeto QuimicAR.
+- 🤝 Acredito na força do trabalho em equipe e na troca de conhecimentos como ferramentas fundamentais para o crescimento profissional e pessoal.
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-rost&include_all_commits&theme=radical&layout=compact" alt="Top Langs"/> </p>
+
+<p> <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" height="50"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" height="50"/></p>
+
+## 📫 Contato
+
+- amandarostprog@gmail.com <br><br>
+<a href="https://www.linkedin.com/in/amanda-teixeira-rost-387a042b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-282A36?style=for-the-badge&logo=Linkedin&logoColor=white)" /></a>
+
+
+
+
